@@ -6,7 +6,7 @@ I used a .clang-format configuration file to automatically format the code with 
 
 BasedOnStyle: Google
 IndentWidth: 4
-ColumnLimit: 135
+ColumnLimit: 180
 SpaceBeforeParens: ControlStatements
 This ensures a clean and readable codebase aligned with the Google style guide, with some customizations.
 
